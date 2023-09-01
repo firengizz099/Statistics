@@ -1,7 +1,7 @@
-Statistics
+# Statistics
 
 
-p_degeri_oran_h.t.py
+**p_degeri_oran_h.t.py**
 
 P degeri ile oran icin Hipotez Testi:
 
@@ -16,8 +16,8 @@ Paulasyon Varyansi biliniyorken_hipotez_testi.py
 
 Bu kod, bir hipotez testi örneği üzerinden çalışmaktadır. İlaç tedavisinin etkisini göstermek için örnek veriler kullanılmıştır. Hipotez testinin genel mantığı, bir iddiayı (null hipotezi) test ederek, verilerin istatistiksel olarak iddia edilen durumdan farklı olup olmadığını belirlemektir. Eğer hesaplanan z-test istatistiği, belirlenen anlamlılık düzeyine karşılık gelen kritik değeri aşarsa, null hipotezi reddedilir ve alternatif hipotezi kabul edilir. Aksi durumda, null hipotezi kabul edilir.
 
-Bayes Theorem
-Bayes.py
+# Bayes Theorem
+**Bayes.py**
 
 ![App Screenshot](https://github.com/firengizz099/Statistics/blob/main/Baye's-Theorem-(1).png?raw=true)
 
